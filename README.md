@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/urlUeIOS)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15490815)
 
 
@@ -37,8 +36,8 @@ This is written in markdown language.
 ---
 **Testimonial:**
 
-**John Doe:** (Change to your name)
+**Alexander Cutting:**
 
-Throughout ACTL1101, I have mastered the topics listed in principles of actuarial science, and the coding assignment work is mine. I feel much more prepared for my future career.
+My interest has been sparked in multiple areas this term, most notably in data science and life insurance. It was interesting to be introduced to some of the complexities that come with applying life insurance in a way that is both beneficial to consumer and producer, with some of the concrete mathematical models that underly key assumptions and principles. Data analytics is a topic that never sparked my interest until being able to comprehend the content which unlocked an appreciation for the usefulness of data analysis such as linear regression.
 
 😄😄😄
